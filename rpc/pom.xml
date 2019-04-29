@@ -19,10 +19,10 @@
   </properties>
 
   <dependencies>
-    <dependency>
+    <!--<dependency>
       <groupId>cn.com.module.demo</groupId>
       <artifactId>demo</artifactId>
-    </dependency>
+    </dependency>-->
 
     <dependency>
       <groupId>org.springframework.boot</groupId>
